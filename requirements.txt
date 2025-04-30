@@ -1,1 +1,8 @@
-
+streamlit
+matplotlib
+urlextract
+wordcloud
+pandas
+collections
+re
+random
